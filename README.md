@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Soulvakiy
+- 👀 I’m interested in becoming better at coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything, almost
+- 📫 How to reach me 
